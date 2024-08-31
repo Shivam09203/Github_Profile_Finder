@@ -6,6 +6,8 @@ GitHub Profile Finder will fetch the github details like, Name of the user, Numb
 By clicking on the username, it will redirect to user github profile.
 
 ## Stacks Used
+* HTML
+* CSS
 * JavaScript Promises
 * API  
 
